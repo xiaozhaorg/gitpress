@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>小吒博客</title>
-    <link>https://xiaozhaorg.github.io/gitpress</link>
+    <link>https://xiaozha.eu.cc</link>
     <description></description>
     <language>zh-CN</language>
     <generator>GitPress</generator>
     <item>
       <title>你好,世界</title>
-      <link>https://xiaozhaorg.github.io/gitpress/posts/hello-world/</link>
-      <guid>https://xiaozhaorg.github.io/gitpress/posts/hello-world/</guid>
+      <link>https://xiaozha.eu.cc/posts/hello-world/</link>
+      <guid>https://xiaozha.eu.cc/posts/hello-world/</guid>
       <pubDate>Sun, 20 Sep 2026 05:05:14 GMT</pubDate>
       <description>我在 GitPress 上的第一篇文章。</description>
     </item>
