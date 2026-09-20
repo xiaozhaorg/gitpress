@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaozhaorg.github.io/gitpress/sitemap.xml
